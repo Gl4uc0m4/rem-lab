@@ -71,8 +71,7 @@ The structure may evolve as more labs are added. Sample binaries are **not inclu
 
 | Lab | Focus | Status | Sample handling |
 |---|---|---|---|
-| [001 — PE32 Debugging & Runtime Obfuscation](labs/001-pe32-debugging/) | PEB checks, timing checks, XOR transformations, x86 control flow, memory inspection | ![In Progress](https://img.shields.io/badge/IN--PROGRESS-9AFF00?style=flat-square) | Treat as potentially live; see the lab's safety notes |
-| More labs coming soon | Additional samples and techniques | ![Planned](https://img.shields.io/badge/PLANNED-777777?style=flat-square) | Per-lab assessment required |
+| labs coming soon | Additional samples and techniques | ![Planned](https://img.shields.io/badge/PLANNED-777777?style=flat-square) | Per-lab assessment required |
 
 > Lab titles and statuses should reflect the contents actually present in the repository. Update this table as investigations are added or completed.
 
