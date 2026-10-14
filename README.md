@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/rem-labs-banner.png" alt="rem labs — malware reversing laboratory" width="100%">
+  <img src="remlabsMalware.png" alt="rem labs — malware reversing laboratory" width="100%">
 
   <h1>rem labs</h1>
   <p><strong>A reproducible notebook of malware reverse-engineering labs.</strong></p>
