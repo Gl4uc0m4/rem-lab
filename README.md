@@ -54,8 +54,6 @@ This repository is a **research notebook**, not a collection of instructions to 
 ```text
 rem-labs/
 ├── README.md
-├── assets/
-│   └── rem-labs-banner.png
 ├── labs/
 │   ├── 001-pe32-debugging/
 │   │   ├── README.md
@@ -63,8 +61,7 @@ rem-labs/
 │   │   ├── screenshots/
 │   │   └── references.md
 │   └── ...
-├── templates/
-│   └── lab-template.md
+├── remlabsMalware.png 
 └── LICENSE
 ```
 
@@ -123,31 +120,11 @@ To keep the repository consistent, labs should use a shared format:
 - **Safety notes** — networking, execution risks, and cleanup.
 - **References** — documentation and related research.
 
-## Tooling
-
-Tools vary by lab, but may include:
-
-- **Ghidra** — static analysis and disassembly.
-- **x32dbg / x64dbg** — Windows user-mode debugging.
-- **Detect It Easy (DIE)** — file identification and basic triage.
-- **PE-bear** — PE structure inspection.
-- **Sysinternals** — selected Windows analysis utilities.
-- **Wireshark** — packet inspection when network analysis is required.
-- **Python** — small analysis scripts and data transformations.
-
-Always obtain tools from their official sources and document the versions used for a lab.
-
 ## Scope and responsible use
 
 The material is intended for **education, defensive security, and authorized research**. It focuses on understanding binaries, documenting behavior, and making analysis reproducible.
 
 Do not use these materials to infect systems, evade security controls in unauthorized environments, steal data, or disrupt services. You are responsible for ensuring that your activities comply with applicable law and the permissions of the systems and samples you analyze.
-
-## Contributing
-
-Suggestions, corrections, and reproducibility notes are welcome. When reporting an issue, include the lab identifier, tool versions, relevant sanitized output, and the steps needed to reproduce the discrepancy.
-
-Please do not attach live malware or sensitive artifacts to issues or pull requests.
 
 ## Disclaimer
 
