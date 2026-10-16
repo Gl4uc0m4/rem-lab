@@ -71,7 +71,7 @@ The structure may evolve as more labs are added. Sample binaries are **not inclu
 
 | Lab | Focus | Status | Sample handling |
 |---|---|---|---|
-| labs coming soon | Additional samples and techniques | ![Planned](https://img.shields.io/badge/PLANNED-777777?style=flat-square) | Per-lab assessment required |
+| [001 — Linux Rootkit Detection & Memory Forensics](labs/001-linux-rootkit-memory-forensics/) | Linux kernel internals, rootkit analysis, memory forensics | ![In Progress](https://img.shields.io/badge/status-IN--PROGRESS-9AFF00?style=flat-square) | Retrieved from the official upstream repository; memory dump generated locally and not distributed |
 
 > Lab titles and statuses should reflect the contents actually present in the repository. Update this table as investigations are added or completed.
 
