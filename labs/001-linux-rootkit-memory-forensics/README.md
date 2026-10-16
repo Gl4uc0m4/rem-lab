@@ -1,9 +1,12 @@
 # Linux Rootkit Detection & Memory Forensics
 
-> **Status:** IN PROGRESS  
-> **Focus:** Linux kernel internals, rootkit analysis, memory forensics  
-> **Platform:** Ubuntu Linux · REMnux · Volatility 3  
-> **Sample:** Diamorphine Linux kernel rootkit
+> **Status:** ![In Progress](https://img.shields.io/badge/status-IN_PROGRESS-9AFF00?style=for-the-badge)
+>
+> **Focus:** Linux kernel internals · Rootkit detection · Memory forensics
+>
+> **Analysis stack:** Ubuntu Linux · REMnux · Volatility 3
+>
+> **Specimen:** [Diamorphine](https://github.com/m0nad/Diamorphine) — Linux kernel rootkit
 
 ---
 
